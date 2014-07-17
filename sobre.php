@@ -1,75 +1,23 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <title>BFTec formação de profissionais de TI</title>
-
-    <!-- Bootstrap core CSS -->
+    <meta name="author" content="">    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="js/ie-emulation-modes-warning.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
-  <style id="holderjs-style" type="text/css"></style></head>
-<!-- NAVBAR
-================================================== -->
+    <style id="holderjs-style" type="text/css"></style>
+    <title>BFTec formação de profissionais de TI</title>
+  </head>
   <body>
     <div class="navbar-wrapper">
       <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="#"></a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Início</a></li>
-                <li><a href="sobre.html">Sobre</a></li>
-                <li><a href="contato.php">Contato</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tecnologias <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li role="presentation" class="dropdown-header">Java</li>
-                    <li><a href="tecnologias/java_se.html">Java SE</a></li>
-                    <li><a href="tecnologias/servlets_jsp.html">Servlets & JSP</a></li>
-                    <li><a href="tecnologias/struts2.html">Struts 2</a></li>
-                    <li><a href="tecnologias/hibernate.html">Hibernate</a></li>
-                    <li><a href="tecnologias/spring.html">Spring</a></li>
-                    <li role="presentation" class="dropdown-header">Apresentação</li>
-                    <li><a href="tecnologias/jquery.html">JQuery</a></li>
-                    <li><a href="tecnologias/html5.html">HTML 5</a></li>
-                    <li role="presentation" class="dropdown-header">Dispositivos Móveis</li>
-                    <li><a href="tecnologias/android.html">Android</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
+      	<?php include("fragmentos/menu_principal.php");?>
       </div>
     </div>
 
@@ -81,35 +29,24 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Para Você">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Monte seus Cursos</h1>
-              <p>Monte cursos personalizados.</p>
+              <h1>Treinamento</h1>
+              <p>Treine novos funcionários nas tecnologias utilizadas por sua empresa.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
+          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Para Você">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Treine seus Funcionários</h1>
-              <p>Treine funcionários em novas tecnologias.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Recicle seus Funcionários</h1>
-              <p>Recicle funcionários sêniores em novas tecnologias.</p>
+              <h1>Reciclagem</h1>
+              <p>Treine funcionários em novas tecnologias que são amplamente utilizadas no mercado.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
             </div>
           </div>
@@ -129,24 +66,8 @@
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Programação Java para Web</h2>
-          <p>Voltado para o desenvolvimento de sites dinâmicos utilizando a linguagem de programação Java.</p>
-          <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>Desenvolvimento Android</h2>
-          <p>Voltado para o desenvolvimento de aplicações para celulares e tablets na plataforma Android.</p>
-          <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
-        </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-          <h2>JQuery & HTML 5</h2>
-          <p>Voltado para o desenvolvimento de layouts de páginas web utilizando JQuery e HTML 5.</p>
-          <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
-        </div><!-- /.col-lg-4 -->
+        <h3>A empresa BFTec visa formar profissionis qualificados para o desenvolvimento de Software em diferentes tecnologias. 
+        Os cursos oferecidos pela BFTec são voltados para empresas que desejam treinar seus funcionários e podem ser adaptados de acordo com as ferramentas utilizadas na empresa. </h3>
       </div><!-- /.row -->
 
 

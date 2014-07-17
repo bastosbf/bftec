@@ -1,75 +1,23 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en"><head>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <title>BFTec formação de profissionais de TI</title>
-
-    <!-- Bootstrap core CSS -->
+    <meta name="author" content="">    
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../js/ie-emulation-modes-warning.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../js/ie10-viewport-bug-workaround.js"></script>
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>    
     <link href="../css/carousel.css" rel="stylesheet">
-  <style id="holderjs-style" type="text/css"></style></head>
-<!-- NAVBAR
-================================================== -->
+    <style id="holderjs-style" type="text/css"></style>
+    <title>BFTec formação de profissionais de TI</title>
+  </head>
   <body>
     <div class="navbar-wrapper">
       <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="#"></a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="../inicio.html">Início</a></li>
-                <li><a href="../sobre.html">Sobre</a></li>
-                <li><a href="../contato.php">Contato</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tecnologias <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li role="presentation" class="dropdown-header">Java</li>
-                    <li><a href="java_se.html">Java SE</a></li>
-                    <li><a href="servlets_jsp.html">Servlets & JSP</a></li>
-                    <li><a href="struts2.html">Struts 2</a></li>
-                    <li class="active"><a href="#">Hibernate</a></li>
-                    <li><a href="spring.html">Spring</a></li>
-                    <li role="presentation" class="dropdown-header">Apresentação</li>
-                    <li><a href="jquery.html">JQuery</a></li>
-                    <li><a href="html5.html">HTML 5</a></li>
-                    <li role="presentation" class="dropdown-header">Dispositivos Móveis</li>
-                    <li><a href="android.html">Android</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
+        <?php include("../fragmentos/menu_tecnologias.php");?>
       </div>
     </div>
 
@@ -127,37 +75,29 @@
 
     <div class="container marketing">
 
-      <div align="center"><h1>Hibernate</h1></div>
+      <div align="center"><h1>Spring</h1></div>
       <ul>
-        <li><h3>Conceitos básicos de banco de dados</h3></li>
+        <li><h3>Configuração do framework Spring</h3></li>
         <ul>
-          <li><h4>SQL</h4></li>
-          <li><h4>Operações básicas (CRUD)</h4></li>
+          <li><h4>Beans Spring</h4></li>
+          <li><h4>O arquivo spring.xml</h4></li>
         </ul>
-        <li><h3>JDBC</h3></li>
+        <li><h3>Beans Spring</h3></li>
         <ul>
-          <li><h4>Configuração da conexão</h4></li>
-          <li><h4>Operações JDBC</h4></li>
+          <li><h4>Injeção de dependencia</h4></li>
         </ul>
-        <li><h3>Modelo objeto x relacional</h3></li>
+        <li><h3>AOP e Spring </h3></li>
         <ul>
-          <li><h4>Mapeamento</h4></li>
-          <li><h4>Arquitetura</h4></li>
+          <li><h4>Programação Orientada a Aspectos</h4></li>
+          <li><h4>Utilizando aspectos com Spring</h4></li>
         </ul>
-        <li><h3>Configuração do Hibernate</h3></li>
+        <li><h3>Core do framework Spring</h3></li>
         <ul>
-          <li><h4>Criação de sessões</h4></li>
-          <li><h4>O arquivo hibernate.cfg</h4></li>
+          <li><h4>Transações</h4></li>
+          <li><h4>Fluxo da aplicação</h4></li>
+          <li><h4>Segurança</h4></li>
         </ul>
-        <li><h3>Persistência</h3></li>
-        <ul>
-          <li><h4>Persistência de objetos e listas</h4></li>
-          <li><h4>Transações e concorrência</h4></li>
-        </ul>
-        <li><h3>HQL</h3></li>
-        <ul>
-          <li><h4>Escrevendo e executando queries Hibernate</h4></li>
-        </ul>
+        <li><h3>Spring MVC</h3></li>
       </ul>
     
 
