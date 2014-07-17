@@ -11,7 +11,7 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="inicio.php">Início</a></li>
+                <li><a href="index.php">Início</a></li>
                 <li><a href="sobre.php">Sobre</a></li>
                 <li><a href="contato.php">Contato</a></li>
                 <li class="dropdown">
