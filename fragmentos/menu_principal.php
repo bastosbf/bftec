@@ -23,11 +23,24 @@
                     <li><a href="tecnologias/struts2.php">Struts 2</a></li>
                     <li><a href="tecnologias/hibernate.php">Hibernate</a></li>
                     <li><a href="tecnologias/spring.php">Spring</a></li>
+                    <li role="presentation" class="dropdown-header">.Net</li>
+                    <li><a href="#">VB.Net</a></li>
+                    <li><a href="#">C#</a></li>
+                    <li><a href="#">ASP.Net</a></li>
+                    <li><a href="#">Entity</a></li>                    
                     <li role="presentation" class="dropdown-header">Apresentaçãoo</li>
                     <li><a href="tecnologias/jquery.php">JQuery</a></li>
                     <li><a href="tecnologias/html5.php">HTML 5</a></li>
-                    <li role="presentation" class="dropdown-header">Dispositivos Móveis</li>
+                    <li role="presentation" class="dropdown-header">Mobile</li>
                     <li><a href="tecnologias/android.php">Android</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cursos <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="cursos/java_web.php">Programação Java para Web</a></li>
+                    <li><a href="#">Desenvolvimento de aplicações Android</a></li>
+                    <li><a href="#">JQuery & HTML5</a></li>
                   </ul>
                 </li>
               </ul>

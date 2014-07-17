@@ -1,67 +1,23 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="">
-    
-    <title>BFTec formação de profissionais de TI</title>
-
-    <!-- Bootstrap core CSS -->
+    <meta name="author" content="">    
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../js/ie-emulation-modes-warning.js"></script>
-
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../js/ie10-viewport-bug-workaround.js"></script>
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Custom styles for this template -->
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>    
     <link href="../css/carousel.css" rel="stylesheet">
-  <style id="holderjs-style" type="text/css"></style></head>
-<!-- NAVBAR
-================================================== -->
+    <style id="holderjs-style" type="text/css"></style>
+    <title>BFTec formação de profissionais de TI</title>
+  </head>
   <body>
     <div class="navbar-wrapper">
       <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="#"></a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="../inicio.php">Início</a></li>
-                <li><a href="../sobre.php">Sobre</a></li>
-                <li><a href="../contato.php">Contato</a></li>
-                <li class="active,dropdown" >
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cursos <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Programação Java para Web</a></li>
-                    <li><a href="#">Desenvolvimento Android</a></li>
-                    <li><a href="#">JQuery & HTML 5</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
+		<?php include("../fragmentos/menu_cursos.php");?>        
       </div>
     </div>
 
@@ -108,7 +64,84 @@
 
     <div class="container marketing">
 
-     <h1>Ementa - Programação Java para Web</h1>
+     <div align="center"><h1>Programação Java para Web</h1></div>
+     <div align="left"><h2><b>Parte I</b></h4></div>
+      <ul>
+        <li><h3>Revisão de orientação a objetos</h3></li>
+        <ul>
+          <li><h4>Classes, atributos, métodos</h4></li>
+          <li><h4>Herança, polimorfismo (interfaces e classes abstratas)</h4></li>
+        </ul>
+        <li><h3>Java SE</h3></li>
+        <ul>
+          <li><h4>I/O, coleções e tratamento de exceções</h4></li>
+        </ul>
+        <li><h3>Thread e Sockets</h3></li>
+        <ul>
+          <li><h4>Threads e Concorrência</h4></li>
+          <li><h4>Conexões Sockets TCP/IP via Java</h4></li>
+        </ul>
+        <li><h3>Introdução a Web</h3></li>
+        <ul>
+          <li><h4>Protocolo HTTP</h4></li>
+          <li><h4>Estrutura de um container Java Web</h4></li>
+        </ul>
+      </ul>
+      <div align="left"><h2><b>Parte II</b></h4></div>
+      <ul>
+        <li><h3>Configurando um ambiente Web</h3></li>
+        <ul>
+          <li><h4>Criando um novo projeto</h4></li>
+          <li><h4>Arquitetura de uma aplicação Web</h4></li>
+          <li><h4>Como executar uma aplicação Web</h4></li>
+        </ul>
+        <li><h3>Conceitos básicos de HTML e JavaScript</h3></li>
+        <ul>
+          <li><h4>Elementos HTML</h4></li>
+          <li><h4>Criando uma página HTML</h4></li>
+          <li><h4>Criando funções JavaScripts</h4></li>
+        </ul>
+        <li><h3>Servlets & JSP</h3></li>
+        <ul>
+          <li><h4>O arquivo web.xml</h4></li>
+          <li><h4>Criando seu primeiro Servlet</h4></li>
+          <li><h4>Os objetos HttpServletRequest e HttpServletResponse</h4></li>
+          <li><h4>Criando seu primeiro JSP</h4></li>
+          <li><h4>Linguagem de Expressão (EL)</h4></li>
+          <li><h4>Tags Java EE</h4></li>
+        </ul>
+        <li><h3>Banco de dados</h3></li>
+        <ul>
+          <li><h4>SQL</h4></li>
+          <li><h4>Operações básicas (CRUD)</h4></li>
+          <li><h4>JDBC</h4></li>
+        </ul>
+        <li><h3>Desenvolvendo uma aplicação Web completa (Parte I)</h3></li>
+        <ul>
+          <li><h4>Formulários, validação de campos</h4></li>
+          <li><h4>Requisição e resposta</h4></li>
+          <li><h4>Acesso a banco de dados</h4></li>
+        </ul>
+        <li><h3>Utilizando o Framework Struts 2</h3></li>
+        <ul>
+          <li><h4>O arquivo struts2.xml</h4></li>
+          <li><h4>Criando uma Action Struts 2</h4></li>
+          <li><h4>Configurando sua Action com XML e Annotations</h4></li>
+          <li><h4>Implementando “aware interfaces” Struts 2</h4></li>
+          <li><h4>Tags Struts 2</h4></li>
+        </ul>
+        <li><h3>Utilizando o Framework Hibernate</h3></li>
+        <ul>
+          <li><h4>Mapeamento entre tabelas e classes</h4></li>
+          <li><h4>HQL (Hibernate Query Language)</h4></li>
+        </ul>
+         <li><h3>Desenvolvendo uma aplicação Web completa (Parte II)</h3></li>
+        <ul>
+          <li><h4>Actions Struts 2</h4></li>
+          <li><h4>Mapeamento Objeto Relacional</h4></li>
+        </ul>
+      </ul>      
+      
       <!-- FOOTER -->
       <footer>
         <!--<p class="pull-right"><a href="http://getbootstrap.com/examples/carousel/#">Back to top</a></p>-->
