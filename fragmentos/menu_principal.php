@@ -29,9 +29,10 @@
                     <li><a href="tecnologias/entity.php">Entity</a></li>
                     <li role="presentation" class="dropdown-header">Python</li>
                     <li><a href="tecnologias/django.php">Django</a></li>                
-                    <li role="presentation" class="dropdown-header">Apresentaçãoo</li>
+                    <li role="presentation" class="dropdown-header">Apresentação</li>
                     <li><a href="tecnologias/jquery.php">JQuery</a></li>
                     <li><a href="tecnologias/html5.php">HTML 5</a></li>
+                    <li><a href="tecnologias/css3.php">CSS 3</a></li>
                     <li role="presentation" class="dropdown-header">Mobile</li>
                     <li><a href="tecnologias/android.php">Android</a></li>
                   </ul>
