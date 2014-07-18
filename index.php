@@ -51,14 +51,14 @@
       <p><a class="btn btn-default" href="cursos/java_web.php" role="button">Mais detalhes »</a></p>
     </div>
     <div class="col-lg-4">
-      <img src="imgs/android.png" alt="Android" style="height: 140px;">
+      <img src="imgs/aspnet.png" alt="ASP.NET" style="height: 140px;">
       <h2>Desenvolvimento de aplicações ASP.Net</h2>
       <p>Voltado para o desenvolvimento de aplicações ASP.Net com C#.</p>
       <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
     </div>
     <div class="col-lg-4">
       <img src="imgs/html5.png" alt="HTML 5" style="height: 140px;">
-      <h2>JQuery & HTML 5</h2>
+      <h2>jQuery & HTML 5</h2>
       <p>Voltado para o desenvolvimento de layouts de páginas web utilizando JQuery e HTML 5.</p>
       <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
     </div>
