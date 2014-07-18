@@ -24,10 +24,11 @@
                     <li><a href="hibernate.php">Hibernate</a></li>
                     <li><a href="spring.php">Spring</a></li>
                     <li role="presentation" class="dropdown-header">.Net</li>
-                    <li><a href="#">VB.Net</a></li>
-                    <li><a href="#">C#</a></li>
-                    <li><a href="#">ASP.Net</a></li>
-                    <li><a href="#">Entity</a></li>
+                    <li><a href="c_sharp.php">C#</a></li>
+                    <li><a href="asp_net.php">ASP.Net</a></li>
+                    <li><a href="entity.php">Entity</a></li>
+                    <li role="presentation" class="dropdown-header">Python</li>
+                    <li><a href="django.php">Django</a></li>
                     <li role="presentation" class="dropdown-header">Apresentaçãoo</li>
                     <li><a href="jquery.php">JQuery</a></li>
                     <li><a href="html5.php">HTML 5</a></li>

@@ -52,8 +52,8 @@
     </div>
     <div class="col-lg-4">
       <img src="imgs/android.png" alt="Android" style="height: 140px;">
-      <h2>Desenvolvimento de aplicações Android</h2>
-      <p>Voltado para o desenvolvimento de aplicações para celulares e tablets na plataforma Android.</p>
+      <h2>Desenvolvimento de aplicações ASP.Net</h2>
+      <p>Voltado para o desenvolvimento de aplicações ASP.Net com C#.</p>
       <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
     </div>
     <div class="col-lg-4">

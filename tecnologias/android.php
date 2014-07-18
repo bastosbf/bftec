@@ -77,14 +77,44 @@
       <div align="center"><h1>Android</h1></div>
       <ul>
         <li><h3>Criando Um Projeto Android</h3></li>
-		<li><h3>Executando Sua App</h3></li>
-		<li><h3>Criando Uma Interface de Usuário</h3></li>
-		<li><h3>Iniciando Uma Nova Activity</h3></li>
-		<li><h3>Ciclo de Vida Activity</h3></li>
-		<li><h3>Exemplo Conversor</h3></li>
-		<li><h3>Criando Menus</h3></li>
-		<li><h3>AsyncTask</h3></li>
-		<li><h3>Gerando um APK</h3></li>
+        <ul>
+          <li><h4>Instalando as ferramentas para o desenvolvimento</h4></li>
+        </ul>
+		<li><h3>Executando sua aplicação</h3></li>
+		<ul>
+          <li><h4>Rodando no emulador Android</h4></li>
+          <li><h4>Rodando em um celular</h4></li>          
+        </ul>
+		<li><h3>Criando uma interface de usuário</h3></li>
+		<ul>
+          <li><h4>Criando a tela de abertura</h4></li>
+          <li><h4>Adicionando temas e menus</h4></li>          
+        </ul>
+		<li><h3>Iniciando uma atividade</h3></li>
+		<ul>
+          <li><h4>Ciclo de vida de uma atividade</h4></li>
+          <li><h4>Trabalhando com a entrada</h4></li>         
+        </ul>        
+		<li><h3>Multimedia</h3></li>
+		<ul>
+          <li><h4>Executando audio e vídeo</h4></li>        
+        </ul>        
+		<li><h3>Armazenamento de dados</h3></li>
+		<ul>
+          <li><h4>Acessado sistema de arquivos e cartão SD</h4></li>        
+        </ul>        
+		<li><h3>Acesso à Internet e GPS</h3></li>
+		<ul>
+          <li><h4>Acessando páginas Web</h4></li>
+          <li><h4>Acessando Web Services</h4></li>
+          <li><h4>Serviço de localização</h4></li>        
+        </ul>        
+		<li><h3>Gráficos e "touch events"</h3></li>
+		<ul>
+          <li><h4>Utilizando OpenGL</h4></li>
+          <li><h4>Reagindo a eventos "touch screen"</h4></li>               
+        </ul>
+        <li><h3>Publicando sua aplicação</h3></li>
       </ul>
    
       <!-- FOOTER -->

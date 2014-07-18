@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -74,14 +74,47 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
-	  <div align="center"><h1>HTML 5</h1></div>
+
+      <div align="center"><h1>Django</h1></div>
       <ul>
-        <li><h3>Introdução ao HTML</h3></li>
-        <li><h3>O HTML 5</h3></li>
-        <li><h3>Rich Media</h3></li>
-        <li><h3>Formulários</h3></li>
-        <li><h3>Semântica do HTML 5</h3></li>
-        <li><h3>Usando HTML 5</h3></li>        
+        <li><h3>Introdução ao Python</h3></li>
+        <ul>
+          <li><h4>Características</h4></li>
+          <li><h4>Seu primeiro programa Python</h4></li>
+          <li><h4>Módulos e funções</h4></li>
+          <li><h4>Tipos e estruturas de dados</h4></li>
+        </ul>
+        <li><h3>Programação orientada a objetos em Python</h3></li>
+        <ul>
+          <li><h4>Classes e objetos</h4></li>
+          <li><h4>Atributos e métodos</h4></li>
+          <li><h4>Herança</h4></li>
+        </ul>
+        <li><h3>Introdução ao Django</h3></li>
+        <ul>
+          <li><h4>Arquitetura de uma aplicação web</h4></li>
+          <li><h4>Requisições e respostas</h4></li>
+        </ul>
+        <li><h3>Templates</h3></li>
+        <ul>
+          <li><h4>Linguagem de templates</h4></li>
+          <li><h4>Template Tags</h4></li>
+        </ul>
+        <li><h3>Views</h3></li>
+        <ul>
+          <li><h4>Fluxo da aplicação</h4></li>
+          <li><h4>Trabalhando com GET e POST</h4></li>
+        </ul>
+        <li><h3>Django Admin</h3></li>
+        <ul>
+          <li><h4>Utilizando o Django Admin</h4></li>
+          <li><h4>Actions, Views e URLs</h4></li>
+        </ul>
+        <li><h3>Django Models</h3></li>
+        <ul>
+          <li><h4>Criando modelos</h4></li>
+          <li><h4>Comandos Insert, Update e Select</h4></li>
+        </ul>
       </ul>
     
 
