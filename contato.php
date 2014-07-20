@@ -39,8 +39,8 @@
         <input type="submit" name="submit" id="submit" value="Enviar" class="btn btn-info pull-right">
       </form>
     </div>
-    <div class="col-lg-6">
-      <h3>Entre em contato por e-mail para saber mais informações sobre nossos cursos!</h3>
+    <div class="col-lg-6" align="justify">
+      <h3>Entre em contato conosco para saber mais informações sobre nossos cursos.</h3>
     </div>
     <hr class="featurette-divider hidden-lg">
   </div>

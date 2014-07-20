@@ -13,7 +13,6 @@
         <div class="carousel-caption">
           <h1>Monte seus Cursos</h1>
           <p>Monte cursos personalizados para sua empresa.</p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
         </div>
       </div>
     </div>
@@ -22,8 +21,7 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Treine seus Funcionários</h1>
-          <p>Treine funcionários em novas tecnologias.</p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
+          <p>Treine seus funcionários em novas tecnologias.</p>
         </div>
       </div>
     </div>
@@ -32,8 +30,7 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Recicle seus Funcionários</h1>
-          <p>Recicle funcionários sêniores em novas tecnologias.</p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Nossos cursos</a></p>
+          <p>Recicle seus funcionários com novas tecnologias.</p>
         </div>
       </div>
     </div>
@@ -54,13 +51,13 @@
       <img src="imgs/aspnet.png" alt="ASP.NET" style="height: 140px;">
       <h2>Desenvolvimento de aplicações ASP.Net</h2>
       <p>Voltado para o desenvolvimento de aplicações ASP.Net com C#.</p>
-      <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
+      <p><a class="btn btn-default" href="cursos/asp_net.php" role="button">Mais detalhes »</a></p>
     </div>
     <div class="col-lg-4">
       <img src="imgs/html5.png" alt="HTML 5" style="height: 140px;">
-      <h2>jQuery & HTML 5</h2>
-      <p>Voltado para o desenvolvimento de layouts de páginas web utilizando JQuery e HTML 5.</p>
-      <p><a class="btn btn-default" href="#" role="button">Mais detalhes »</a></p>
+      <h2>jQuery, HTML 5 & CSS 3</h2>
+      <p>Voltado para o desenvolvimento de layouts de páginas web utilizando JQuery, HTML 5 e CSS 3.</p>
+      <p><a class="btn btn-default" href="cursos/jquery_html5_css3.php" role="button">Mais detalhes »</a></p>
     </div>
   </div>
 </div>
