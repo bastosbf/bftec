@@ -15,7 +15,7 @@
                 <li><a href="sobre.php">Sobre</a></li>
                 <li><a href="contato.php">Contato</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tecnologias <span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ferramentas <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li role="presentation" class="dropdown-header">Java</li>
                     <li><a href="tecnologias/java_se.php">Java SE</a></li>

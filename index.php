@@ -21,7 +21,7 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Treine seus Funcionários</h1>
-          <p>Treine seus funcionários em novas tecnologias.</p>
+          <p>Treine seus funcionários em novas ferramentas.</p>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@
       <div class="container">
         <div class="carousel-caption">
           <h1>Recicle seus Funcionários</h1>
-          <p>Recicle seus funcionários com novas tecnologias.</p>
+          <p>Recicle seus funcionários com novas ferramentas.</p>
         </div>
       </div>
     </div>
