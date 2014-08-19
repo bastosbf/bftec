@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Anton);
+
 html, body {
   height: 100%;
 }
@@ -15,4 +17,10 @@ main > .container {
 
 footer, .push {
   height: 30px;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+  font-family: 'Anton', sans-serif;
+  font-size: 24px;
 }

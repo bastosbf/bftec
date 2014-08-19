@@ -8,7 +8,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="item active">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
+      <img src="imgs/cover_build.png" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Monte seus Cursos</h1>
@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="item">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
+      <img src="imgs/cover_training.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Treine seus Funcionários</h1>
@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="item">
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="">
+      <img src="imgs/cover_retraining.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
           <h1>Recicle seus Funcionários</h1>
