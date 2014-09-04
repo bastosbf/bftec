@@ -41,7 +41,7 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cursos <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="java_web.php">Programação Java para Web</a></li>
-                    <li><a href="asp_net.php">Desenvolvimento de aplicações Android</a></li>
+                    <li><a href="asp_net.php">Desenvolvimento de aplicações ASP.Net</a></li>
                     <li><a href="jquery_html5_css3.php">JQuery, HTML 5 & CSS 3</a></li>
                   </ul>
                 </li>
