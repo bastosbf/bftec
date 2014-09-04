@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#"></a>
+              <a class="navbar-brand" href="../index.php">BFtec</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -31,8 +31,7 @@
                     <li><a href="../tecnologias/django.php">Django</a></li>
                     <li role="presentation" class="dropdown-header">Apresentação</li>
                     <li><a href="../tecnologias/jquery.php">JQuery</a></li>
-                    <li><a href="../tecnologias/html5.php">HTML 5</a></li>
-                    <li><a href="../tecnologias/css3.php">CSS 3</a></li>
+                    <li><a href="../tecnologias/html5_css3.php">HTML 5 & CSS 3</a></li>
                     <li role="presentation" class="dropdown-header">Mobile</li>
                     <li><a href="../tecnologias/android.php">Android</a></li>
                   </ul>
