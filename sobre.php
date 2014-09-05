@@ -38,13 +38,18 @@
 		<div class="col-md-5">
 			<img class="featurette-image img-responsive"
 				data-src="holder.js/500x500/auto" alt="500x500"
-				src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iI2VlZSIvPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjI1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojYWFhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjMxcHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+NTAweDUwMDwvdGV4dD48L3N2Zz4=">
+				src="http://vitorfs.com/img/picture.jpg">
 		</div>
 		<div class="col-md-7">
 			<h2 class="featurette-heading">
 				Vitor Freitas</span>
 			</h2>
-			<p class="lead"></p>
+			<p class="lead">Analista de sistemas e desenvolvedor web. Bacharel em Sistemas de Informação pela
+				Faculdade Metodista Granbery, Mestrando em Engenharia de Software pela Universidade Federal de Juiz de Fora.
+				Atua com desenvolvimento, análise funcional e modelagem de dados desde 2008. Possui conhecimentos
+				sólidos de desenvolvimento web (<em>front-end</em> e <em>backend</em>), experiência com linguagens de
+				programação como Java, Python, C#, PHP, ASP/VbScript.
+			</p>
 		</div>
 	</div>
 
