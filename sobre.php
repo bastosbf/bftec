@@ -12,7 +12,8 @@
 		necessidade de cada empresa. Para montar seus cursos entre em contato
 		conosco através do próprio site. <br /> <br /> Os cursos oferecidos
 		por nossa empresa são ministrados por profissionais qualificados que
-		já tiveram experiência com essas tecnologias no mercado de trabalho.
+		já tiveram experiência com essas tecnologias em projetos bem sucedidos
+		no mercado de trabalho.
 	</h4>
 	<hr class="featurette-divider">
 	<div class="row featurette">
