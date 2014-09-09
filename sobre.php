@@ -28,13 +28,13 @@
 				desktop, web e mobile, utilizando diversas tecnologias.</p>
 		</div>
 		<div class="col-md-5">
-			<img class="featurette-image img-responsive" alt="Bruno Bastos" src="imgs/bruno.JPG">
+			<img class="featurette-image img-responsive" alt="Bruno Bastos" src="imgs/bruno.JPG" width="210px">
 		</div>
 	</div>
 	<hr class="featurette-divider">
 	<div class="row featurette">
 		<div class="col-md-5">
-			<img class="featurette-image img-responsive" src="http://vitorfs.com/img/picture.jpg" alt="Vitor Freitas">
+			<img class="featurette-image img-responsive" alt="Vitor Freitas" src="imgs/vitor.jpg" width="210px">
 		</div>
 		<div class="col-md-7">
 			<h2 class="featurette-heading">
