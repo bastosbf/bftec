@@ -3,7 +3,7 @@
     </div>
     <footer>
       <div class="container">
-        © 2014 BFtec Ltd.
+        © 2014 BFTec.
       </div>
     </footer>
     <script src="js/jquery.min.js"></script>
