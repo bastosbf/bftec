@@ -11,8 +11,8 @@
       <img src="imgs/cover_build.png" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Monte seus Cursos</h1>
-          <p>Monte cursos personalizados para sua empresa.</p>
+          <h1>Monte seus cursos</h1>
+          <p>Monte cursos personalizados para você e para sua empresa.</p>
         </div>
       </div>
     </div>
@@ -20,7 +20,7 @@
       <img src="imgs/cover_training.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Treine seus Funcionários</h1>
+          <h1>Treine seus funcionários</h1>
           <p>Treine seus funcionários em novas ferramentas.</p>
         </div>
       </div>
@@ -29,8 +29,8 @@
       <img src="imgs/cover_retraining.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Recicle seus Funcionários</h1>
-          <p>Recicle seus funcionários com novas ferramentas.</p>
+          <h1>Aprenda novas tecnologias</h1>
+          <p>Aprenda novas tecnologias e fique preparado para o mercado de TI.</p>
         </div>
       </div>
     </div>
