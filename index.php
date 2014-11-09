@@ -29,8 +29,8 @@
       <img src="imgs/cover_retraining.jpg" alt="">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Aprenda novas tecnologias</h1>
-          <p>Aprenda novas tecnologias e fique preparado para o mercado de TI.</p>
+          <h1>Aprenda novas ferramentas</h1>
+          <p>Aprenda novas ferramentas e fique preparado para o mercado de TI.</p>
         </div>
       </div>
     </div>
